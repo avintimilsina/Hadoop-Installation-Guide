@@ -1,0 +1,14 @@
+{
+  "index": "Getting Started",
+  "downloads": "Downloads",
+  "about": {
+    "title": "About",
+    "type": "page"
+  },
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://github.com/dipta52",
+    "newWindow": true
+  }
+}
